@@ -2,7 +2,7 @@
 
 A comprehensive multimodal system that combines Retrieval-Augmented Generation (RAG) with intelligent agents to process text, images, audio, and code, powered by Ollama and LangChain.
 
-![Multimodal RAG System](https://github.com/lmong11/MultiModal/assets/test.jpg)
+![Multimodal RAG System](https://github.com/lmong11/MultiModal/blob/main/assets/test.jpg)
 
 ## 🌟 Features
 
