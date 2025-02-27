@@ -1,0 +1,37 @@
+# Core dependencies
+ollama>=0.1.14
+langchain>=0.1.0  # Ensure using newer version
+langchain-community>=0.0.10  # New community package
+faiss-cpu>=1.7.4
+streamlit>=1.28.0
+
+# Document processing
+PyMuPDF>=1.22.5
+pytesseract>=0.3.10
+Pillow>=10.0.0
+
+# Audio processing
+whisper>=1.1.10
+# Note: faster-whisper might need additional setup
+# faster-whisper>=0.9.0
+
+# LLM and embeddings
+transformers>=4.35.0
+torch>=2.0.1
+sentence-transformers>=2.2.2
+
+# Image processing
+opencv-python>=4.8.0
+
+# Code processing
+tokenizers>=0.14.1
+
+# Visualization
+matplotlib>=3.7.3
+seaborn>=0.13.0
+pandas>=2.1.1
+
+# Utilities
+numpy>=1.24.3
+tqdm>=4.66.1
+python-dotenv>=1.0.0
